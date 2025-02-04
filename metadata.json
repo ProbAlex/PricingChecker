@@ -1,0 +1,11 @@
+{
+  "name": "PricingChecker",
+  "creator": "IcyHenryT and ProbAlex",
+  "description": "Makes it easier to list auctions",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": [
+    "axios",
+    "PogData"
+  ]
+}

@@ -1,0 +1,1 @@
+export const checkPrice = new KeyBind("Check/Set Price", Keyboard.KEY_H, "PricingChecker");
